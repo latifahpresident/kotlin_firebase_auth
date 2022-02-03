@@ -23,10 +23,10 @@ class LoginFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-// ...
-// Initialize Firebase Auth
+        // Initialize Firebase Auth
         auth = Firebase.auth
     }
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
