@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "879636229510",
+    "project_id": "authdemo-f6bdd",
+    "storage_bucket": "authdemo-f6bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879636229510:android:469579be4deb1829ed1007",
+        "android_client_info": {
+          "package_name": "com.latifah.authdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879636229510-2ppcng4edo406albjirik4v34914eg41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.latifah.authdemo",
+            "certificate_hash": "7febc46be51284bbdb3bcdd6b9b3d4e2fc413419"
+          }
+        },
+        {
+          "client_id": "879636229510-3psrk5c4d71bt25h4ehmt5n3r65q0n4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3YLI0vRFNVAHOG6eyIAU8nzY_dvL8MQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879636229510-3psrk5c4d71bt25h4ehmt5n3r65q0n4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
